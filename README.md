@@ -4,7 +4,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/adamrees89/Beep-Songs.svg)](https://github.com/adamrees89/Beep-Songs/network)
 [![GitHub stars](https://img.shields.io/github/stars/adamrees89/Beep-Songs.svg)](https://github.com/adamrees89/Beep-Songs/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/adamrees89/Beep-Songs/master/LICENSE)
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/adamrees89/Beep-Songs)
 
 Song scripts written for the 'beep' software commonly found in Linux
 
